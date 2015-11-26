@@ -51,9 +51,3 @@ Practical proof-of-concept
 
 If you want to see the attack in action on your own network, run option 1 of the PoC to generate the image file containing Beacon subframes (300 MB), then upload it to your web server. Finally, download the image **while being connected to an open 802.11n network with frame aggregation enabled**. Then, while downloading, check either Wireshark or your list of discovered networks (usually takes several downloads of the image for it to appear in the list of networks), and you should see a new network named "injected SSID" coming from MAC address 00:00:00:00:00:00. The amount of Beacons you see will depend on how fast frames are corrupted on your network and how often your AP performs frame aggregation.
 
-
-Details
--------
-
-More details about the attack can be found in my paper at [this location](https://github.com/rpp0/aggr-inject/blob/master/paper/ampdu_inj_wisec2015.pdf). My presentation can be downloaded [here](https://github.com/rpp0/aggr-inject/blob/master/presentation/wisec2015.pdf).
-
