@@ -57,8 +57,3 @@ Details
 
 More details about the attack can be found in my paper at [this location](https://github.com/rpp0/aggr-inject/blob/master/paper/ampdu_inj_wisec2015.pdf). My presentation can be downloaded [here](https://github.com/rpp0/aggr-inject/blob/master/presentation/wisec2015.pdf).
 
-
-Contact
--------
-
-I'm happy to answer any questions via the Reddit thread concerning this attack (https://www.reddit.com/r/netsec/comments/3bq96e/vulnerability_in_80211n_standard_allows_remote/), Twitter (https://twitter.com/redplusplus) or my e-mail, which you can find at the end of my presentation.
